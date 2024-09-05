@@ -5,6 +5,9 @@ name = "pypi"
 
 [packages]
 beautifulsoup4 = "*"
+pytrends = "*"
+pandas = "*"
+urllib3 = "*"
 
 [dev-packages]
 
