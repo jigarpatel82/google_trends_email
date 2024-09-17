@@ -1,0 +1,4 @@
+- add charts and graphs in email
+- work on fixing the https error and not sending email issue.(put it in queue so that it will keep trying
+every 10-20 minutes)
+- 

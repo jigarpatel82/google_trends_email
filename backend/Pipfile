@@ -8,6 +8,9 @@ beautifulsoup4 = "*"
 pytrends = "*"
 pandas = "*"
 urllib3 = "*"
+flask = "*"
+flask-cors = "*"
+flask-sqlalchemy = "*"
 
 [dev-packages]
 
