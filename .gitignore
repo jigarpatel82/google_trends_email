@@ -3,4 +3,4 @@
 instance/
 instance/*.db
 frontend/node_modules/*
-frontend/.next/
+frontend/.next/*
