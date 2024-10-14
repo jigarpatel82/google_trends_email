@@ -11,6 +11,13 @@ urllib3 = "*"
 flask = "*"
 flask-cors = "*"
 flask-sqlalchemy = "*"
+matplotlib = "*"
+plotly = "*"
+kaleido = "*"
+sendgrid = "*"
+certifi = "*"
+msal = "*"
+o365 = "*"
 
 [dev-packages]
 
