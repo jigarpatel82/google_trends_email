@@ -3,4 +3,4 @@
 instance/
 instance/*.db
 frontend/node_modules/*
-frontend/.next/*
+frontend/.next/*/Users/sanchi/Desktop/Jigar/google_trends_scrapper/frontend/node_modules
