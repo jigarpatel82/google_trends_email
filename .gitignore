@@ -4,3 +4,4 @@ instance/
 instance/*.db
 frontend/node_modules/*
 frontend/.next/*/Users/sanchi/Desktop/Jigar/google_trends_scrapper/frontend/node_modules
+/Users/sanchi/Desktop/Jigar/google_trends_scrapper/frontend/node_modules
