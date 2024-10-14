@@ -2,19 +2,10 @@ from bs4 import BeautifulSoup
 from pytrends.request import TrendReq
 import pandas as pd
 from flask import Flask, request, jsonify, url_for
-import smtplib
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
-from email.mime.image import MIMEImage
-from email.mime.application import MIMEApplication
 from flask_cors import CORS
 from flask_sqlalchemy import SQLAlchemy
 from itsdangerous import URLSafeTimedSerializer
 import os
-import matplotlib
-matplotlib.use('Agg')
-import matplotlib.pyplot as plt
-import time
 import plotly.graph_objects as go
 import plotly.io as pio
 import sendgrid 
